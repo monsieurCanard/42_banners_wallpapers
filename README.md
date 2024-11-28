@@ -1,10 +1,21 @@
-# 42_banners_wallpapers
- ! ENJOY BUT DON'T USE IT FOR COMMERCIAL PURPOSE !
+   <a 
+    href="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/DuckHunt.png">
+  <img src="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/DuckHunt.png" alt="DuckHunt"></a>
 
+# 🎨 42 Graphics Repository
 
-# Include in this repo 🖼
+Welcome to the **42 Graphics Repository**! This project is a collection of banners for GitHub repositories and wallpapers tailored for students of **42**. Whether you're looking to enhance your GitHub profile or personalize your workspace, we've got you covered.
+
+## 🌟 Features
+
+- **GitHub Repository Banners**:
+  - Visuals to make your repositories stand out.
+
+- **42-themed Wallpapers**:
+  - Perfect for desktop or mobile use.
+
+## 🖼️ Previews
   <div align="center" style="display: place-content: center;">
-
 <a
   href="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/Abstract1.png">
   <img src="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/Abstract1.png" alt="Abstract1" length="300" width="400"></a>
@@ -72,4 +83,16 @@
     href="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/WhiteLotus.png">
   <img src="https://github.com/monsieurCanard/42_banners_wallpapers/blob/main/WhiteLotus.png" alt="WhiteLotus" length="300" width="400"></a>
   </div>
+
+
+## 🛠️ Contribute
+
+1. **Submit your designs**:
+   - Add your custom banners or wallpapers to the relevant folder.
+   - Make sure to follow the naming convention:  
+     `banner-yourname.png` or `wallpaper-yourname.png`.
+2. **Open a pull request** to share your work with everyone.
+
+
+
   
